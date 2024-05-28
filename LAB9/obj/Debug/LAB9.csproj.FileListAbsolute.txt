@@ -1,0 +1,13 @@
+C:\Users\vladi\OneDrive\Рабочий стол\Учёба\LAB9\bin\Debug\LAB9.exe.config
+C:\Users\vladi\OneDrive\Рабочий стол\Учёба\LAB9\bin\Debug\LAB9.exe
+C:\Users\vladi\OneDrive\Рабочий стол\Учёба\LAB9\bin\Debug\LAB9.pdb
+C:\Users\vladi\OneDrive\Рабочий стол\Учёба\LAB9\obj\Debug\LAB9.csproj.AssemblyReference.cache
+C:\Users\vladi\OneDrive\Рабочий стол\Учёба\LAB9\obj\Debug\LAB9.Form1.resources
+C:\Users\vladi\OneDrive\Рабочий стол\Учёба\LAB9\obj\Debug\LAB9.Users.resources
+C:\Users\vladi\OneDrive\Рабочий стол\Учёба\LAB9\obj\Debug\LAB9.Properties.Resources.resources
+C:\Users\vladi\OneDrive\Рабочий стол\Учёба\LAB9\obj\Debug\LAB9.csproj.GenerateResource.cache
+C:\Users\vladi\OneDrive\Рабочий стол\Учёба\LAB9\obj\Debug\LAB9.csproj.CoreCompileInputs.cache
+C:\Users\vladi\OneDrive\Рабочий стол\Учёба\LAB9\obj\Debug\LAB9.exe
+C:\Users\vladi\OneDrive\Рабочий стол\Учёба\LAB9\obj\Debug\LAB9.pdb
+C:\Users\vladi\OneDrive\Рабочий стол\Учёба\LAB9\obj\Debug\LAB9.Products.resources
+C:\Users\vladi\OneDrive\Рабочий стол\Учёба\LAB9\obj\Debug\LAB9.Orders.resources
